@@ -1,0 +1,94 @@
+{
+  materials: [
+    {
+      name: 'Bianco',
+      parameters: [
+        {
+          baseColor: [
+            0.80000000000000004,
+            0.80000000000000004,
+            0.80000000000000004,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: '/home/hsui2x/public_html/google-ar-asset-converter/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Nero_001',
+      parameters: [
+        {
+          baseColor: [
+            0.017399999999999999,
+            0.017399999999999999,
+            0.017399999999999999,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: '/home/hsui2x/public_html/google-ar-asset-converter/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: '/home/hsui2x/data/tmp/old_obj/4.fbx',
+    name: '4',
+    recenter: 'root',
+    scale: 2.5825909999999999,
+  },
+  version: '0.54:2',
+}
